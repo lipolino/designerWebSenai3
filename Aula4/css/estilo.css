@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+/* AQUI É UM COMENTÁRIO */
+/* Alterar a cor de fundo do BODY */
+body {background-color: aqua;}
+/* mudar o tamanho do "HEADING" */
+
+h1 {font-size: 30px;}
+
+header, nav, article, aside, section, footer {
+    border: 5px dashed black;
+}
