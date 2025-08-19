@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+body {background-image: url("../imagem/senai.png");
+    background-size: cover;}
+
+  
+header h1 {margin: 5px 20px 5px 5px;
+    background-image: url("../imagem/senai2.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100px;
+}
+
+header h2 {font-size: 30px;}
+
+article h1 {font-size: 30px}
+
+article h2 {margin: 20px}
+
+article p {margin: 20px}
+
+section h2 {font-size: 30px}
+
+section p {margin: 20px}
+
+section ol {margin: 20px}
+
+nav p {
+    color: black;
+}
+
+a {
+    margin: 50px 10px 15px 5px;
+    font-weight: bold;
+}
+
+nav article {
+    background-color: red;
+}
